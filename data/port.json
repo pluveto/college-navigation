@@ -1,0 +1,167 @@
+{
+    "maps": [
+        {
+            "id": 0,
+            "scale": 0.95,
+            "name": "校区 0",
+            "path": "map_0.json",
+            "bgimg": "map_0.png"
+        },
+        {
+            "id": 1,
+            "scale": 0.95,
+            "name": "校区 1",
+            "path": "map_1.json",
+            "bgimg": "map_1.png"
+        },
+        {
+            "id": 2,
+            "scale": 0.1,
+            "name": "沙河教学楼 1F",
+            "path": "b2f1.json",
+            "bgimg": "b2f1.png"
+        },
+        {
+            "id": 3,
+            "scale": 0.1,
+            "name": "沙河教学楼 2F",
+            "path": "b2f2.json",
+            "bgimg": "b2f2.png"
+        },
+        {
+            "id": 4,
+            "scale": 0.1,
+            "name": "本部教学楼 1F",
+            "path": "b1f1.json",
+            "bgimg": "b1f1.png"
+        },
+        {
+            "id": 5,
+            "scale": 0.1,
+            "name": "本部教学楼 2F",
+            "path": "b1f2.json",
+            "bgimg": "b1f2.png"
+        },
+        {
+            "id": 6,
+            "scale": 0.1,
+            "name": "本部教学楼 3",
+            "path": "b1f3.json",
+            "bgimg": "b1f3.png"
+        }
+    ],
+    "ports": [
+        {
+            "id": 1,
+            "level": 14,
+            "sourceMapId": 1,
+            "targetMapId": 0,
+            "sourceNodeId": 1621873253982,
+            "targetNodeId": 1621872829538
+        },
+        {
+            "id": 2,
+            "level": 14,
+            "sourceMapId": 0,
+            "targetMapId": 1,
+            "sourceNodeId": 1621872829538,
+            "targetNodeId": 1621873253982
+        },
+        {
+            "id": 3,
+            "level": 16,
+            "sourceMapId": 1,
+            "targetMapId": 2,
+            "sourceNodeId": 1622019487136,
+            "targetNodeId": 1622021008608
+        },
+        {
+            "id": 4,
+            "level": 32,
+            "sourceMapId": 2,
+            "targetMapId": 1,
+            "sourceNodeId": 1622021008608,
+            "targetNodeId": 1622019487136
+        },
+        {
+            "id": 5,
+            "level": 16,
+            "sourceMapId": 0,
+            "targetMapId": 4,
+            "sourceNodeId": 1622809167523,
+            "targetNodeId": 1622812127196
+        },
+        {
+            "id": 6,
+            "level": 32,
+            "sourceMapId": 4,
+            "targetMapId": 0,
+            "sourceNodeId": 1622812127196,
+            "targetNodeId": 1622809167523
+        },
+        {
+            "id": 7,
+            "level": 128,
+            "sourceMapId": 2,
+            "targetMapId": 3,
+            "sourceNodeId": 1622021008606,
+            "targetNodeId": 1622813039675
+        },
+        {
+            "id": 8,
+            "level": 64,
+            "sourceMapId": 3,
+            "targetMapId": 2,
+            "sourceNodeId": 1622813039675,
+            "targetNodeId": 1622021008606
+        },
+        {
+            "id": 9,
+            "level": 128,
+            "sourceMapId": 2,
+            "targetMapId": 3,
+            "sourceNodeId": 1622812869743,
+            "targetNodeId": 1622813039674
+        },
+        {
+            "id": 10,
+            "level": 64,
+            "sourceMapId": 3,
+            "targetMapId": 2,
+            "sourceNodeId": 1622813039674,
+            "targetNodeId": 1622812869743
+        },
+        {
+            "id": 11,
+            "level": 128,
+            "sourceMapId": 4,
+            "targetMapId": 5,
+            "sourceNodeId": 1622032674968,
+            "targetNodeId": 1622813318943
+        },
+        {
+            "id": 12,
+            "level": 64,
+            "sourceMapId": 5,
+            "targetMapId": 4,
+            "sourceNodeId": 1622813318943,
+            "targetNodeId": 1622032674968
+        },
+        {
+            "id": 13,
+            "level": 128,
+            "sourceMapId": 5,
+            "targetMapId": 6,
+            "sourceNodeId": 1622813318943,
+            "targetNodeId": 1622813632689
+        },
+        {
+            "id": 14,
+            "level": 64,
+            "sourceMapId": 6,
+            "targetMapId": 5,
+            "sourceNodeId": 1622813632689,
+            "targetNodeId": 1622813318943
+        }
+    ]
+}

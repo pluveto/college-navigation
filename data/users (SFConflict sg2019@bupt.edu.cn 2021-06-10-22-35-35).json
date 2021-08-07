@@ -1,0 +1,103 @@
+{
+    "zzj": {
+        "Username": "zzj",
+        "Password": "111111",
+        "AddressMapper": {
+            "List": [
+                {
+                    "DayOfWeek": [
+                        2
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "计算机网络",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008611
+                },
+                {
+                    "DayOfWeek": [
+                        3
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "数据结构",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008612
+                }
+            ]
+        }
+    },
+    "js": {
+        "Username": "js",
+        "Password": "111111",
+        "AddressMapper": {
+            "List": [
+                {
+                    "DayOfWeek": [
+                        1
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "计算机网络",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008611
+                },
+                {
+                    "DayOfWeek": [
+                        3
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "计算机网络",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008611
+                },
+                {
+                    "DayOfWeek": [
+                        5
+                    ],
+                    "TimeStart": 34800,
+                    "TimeEnd": 41100,
+                    "Class": "2019211308",
+                    "Activity": "数据结构",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008612
+                }
+            ]
+        }
+    },
+    "js": {
+        "Username": "mzh",
+        "Password": "666666",
+        "AddressMapper": {
+            "List": [
+                {
+                    "DayOfWeek": [
+                        1
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "计算机网络",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008611
+                },
+                {
+                    "DayOfWeek": [
+                        5
+                    ],
+                    "TimeStart": 28800,
+                    "TimeEnd": 34500,
+                    "Class": "2019211308",
+                    "Activity": "数据结构",
+                    "_MapId": 2,
+                    "_NodeId": 1622021008612
+                }
+            ]
+        }
+    }
+}

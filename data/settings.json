@@ -1,0 +1,5 @@
+{
+    "DebugMode": false,
+    "BaseUrl": "http://123.57.244.239:1926/",
+    "RebootUrl": "http://123.57.244.239:8999/"
+}
